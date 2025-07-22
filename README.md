@@ -20,9 +20,9 @@ Dataset contains **89,986** photos of license plates (number plates), designed f
 ### 🧩 Like the dataset but need different data? We can collect a custom dataset just for you - learn more about our data collection services [here](https://unidata.pro/datasets/usa-license-plate-detection-dataset/?utm_source=github-sc&utm_medium=referral&utm_campaign=united-states-license-plate-dataset)
 
 ## Similar Datasets:
-1. [Car License Plate Detection Dataset](https://unidata.pro/datasets/car-license-plates-ocr-image/?utm_source=github-sc&utm_medium=referral&utm_campaign=license-plate-dataset)
-2. [Germany License Plate Dataset](https://unidata.pro/datasets/germany-license-plate-detection-dataset/?utm_source=github-sc&utm_medium=referral&utm_campaign=germany-license-plate-dataset)
-3. [United Kingdom License Plate Dataset](https://unidata.pro/datasets/united-kingdom-license-plate-detection-dataset/?utm_source=github-sc&utm_medium=referral&utm_campaign=united-kingdom-license-plate-dataset)
+1. [Car License Plate Detection Dataset](https://unidata.pro/datasets/car-license-plates-ocr-image/?utm_source=github-sc&utm_medium=referral&utm_campaign=united-states-license-plate-dataset)
+2. [Germany License Plate Dataset](https://unidata.pro/datasets/germany-license-plate-detection-dataset/?utm_source=github-sc&utm_medium=referral&utm_campaign=united-states-license-plate-dataset)
+3. [United Kingdom License Plate Dataset](https://unidata.pro/datasets/united-kingdom-license-plate-detection-dataset/?utm_source=github-sc&utm_medium=referral&utm_campaign=united-states-license-plate-dataset)
 
 ## 🌐 [UniData](https://unidata.pro/datasets/usa-license-plate-detection-dataset/?utm_source=github-sc&utm_medium=referral&utm_campaign=united-states-license-plate-dataset) - your trusted data partner. Unique, accurate, thoroughly collected and annotated data designed to fuel your AI/ML success.
 
